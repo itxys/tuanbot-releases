@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="#-中文">中文</a> · <a href="#-english">English</a> ·
-  <a href="https://github.com/itxys/tuanbot">Source</a> ·
-  <a href="https://github.com/itxys/tuanbot/issues">Issues</a>
+  <a href="https://github.com/itxys/tuanbot-releases/releases">Releases</a> ·
+  <a href="https://github.com/itxys/tuanbot-releases/issues">Issues</a>
 </p>
 
 ---
@@ -32,8 +32,8 @@
 ### 这是什么仓库？
 这是 **Tuanbot 的发行版仓库**，用于存放安装包与自动更新所需文件（例如 `latest.yml`、`.blockmap`）。
 
-- 源码仓库：`https://github.com/itxys/tuanbot`
-- 反馈问题：`https://github.com/itxys/tuanbot/issues`
+- Releases：`https://github.com/itxys/tuanbot-releases/releases`
+- 反馈问题：`https://github.com/itxys/tuanbot-releases/issues`
 
 ### ✅ 下载安装
 当前提供 Windows 安装包：
@@ -65,8 +65,8 @@
 ### What is this repository?
 This is the **release-only repository** for Tuanbot. It hosts installers and auto-update metadata (e.g. `latest.yml`, `.blockmap`).
 
-- Source: `https://github.com/itxys/tuanbot`
-- Issues: `https://github.com/itxys/tuanbot/issues`
+- Releases: `https://github.com/itxys/tuanbot-releases/releases`
+- Issues: `https://github.com/itxys/tuanbot-releases/issues`
 
 ### ✅ Download & Install
 Windows installer is available:
